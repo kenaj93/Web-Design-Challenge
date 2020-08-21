@@ -1,0 +1,35 @@
+h3{
+    color:lightgreen;
+}
+
+h4{
+    color:blue;
+}
+
+body{
+    background-color: lightgray;
+}
+
+#leftbox{
+    background-color: white;
+    margin-top: 25px;
+    padding-left: 25px;
+}
+
+#rightbox{
+    background-color: white;
+    margin-top: 25px;
+
+}
+
+#leftimage{
+    width: 300px;
+    height: 300px;
+
+}
+
+#rightimage{
+    width: 200px;
+    height: 200px;
+
+}
